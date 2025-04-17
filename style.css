@@ -1,0 +1,16 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    padding: 24px 16px;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 20px;
+}
+.recipes{
+    margin:40;
+    padding: 20px;
+    background-color:aliceblue;
+    border:2px solid black;
+    border-radius: 20px;
+}
